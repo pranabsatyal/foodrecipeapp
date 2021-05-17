@@ -18,6 +18,7 @@ The app provides a list of poplular website where user can find food recipes wit
 - UIKit
 - Networking - URLSession - Codable - APICalls - JSON Parsing
 - Safari Services
+- Singleton design pattern
 
 
 **Features:**
