@@ -4,4 +4,4 @@ The app provides a list of poplular website where user can find food recipes wit
 
 **App Screenshots**
 
-<img src="Images/Food Recipe 1.png" height="500"> <img src="Images/Food Recipe 2.png" height="500"> <img src="Images/Food Recipe 3.png" height="500"> <img src="Images/Food Recipe 4.png" height="500">
+<img src="Images/Food Recipe 1.png" height="500">   <img src="Images/Food Recipe 2.png" height="500">   <img src="Images/Food Recipe 3.png" height="500">   <img src="Images/Food Recipe 4.png" height="500">
